@@ -1,7 +1,7 @@
-/*Hector_Gerardo_Sanchez_Quiroga
-* 13:38 
-* 05/02/19
-* Write a Java program to print the result of the following operations. 
+/*@autor: Hector_Gerardo_Sanchez_Quiroga
+* @Timestart: 13:38 
+* @Date 05/02/19
+* @WTD:  Write a Java program to print the result of the following operations. 
 */
 public class Exercise4{
 
