@@ -1,6 +1,6 @@
-/*Hector_Gerardo_Sanchez_Quiroga
-* 12:51 
-* 05/02/19
+/*Nombre: Hector_Gerardo_Sanchez_Quiroga
+* Dia: 05/02/19
+* Hora: 12:51 
 * Write a Java program to print the sum of two numbers.
 */
 import java.util.Scanner;
