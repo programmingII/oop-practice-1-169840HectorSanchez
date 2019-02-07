@@ -1,6 +1,6 @@
-/*  @autor: Hector_Sanchez_169840
-*  @date> 02/07/19
-* @timeStart: 12:20
+/*  Nombre: Hector_Sanchez_169840
+*  Dia: 02/07/19
+* Hora: 12:20
 * WTD: Write a Java program that takes two numbers as input and display the product of two numbers
 */
 
