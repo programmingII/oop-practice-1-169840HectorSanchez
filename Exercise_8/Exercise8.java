@@ -1,6 +1,6 @@
-/*  @autor: Hector_Sanchez_169840
-*  @date: 02/07/19
-* @timeStart: 12:58
+/*  Nombre: Hector_Sanchez_169840
+*  Dia: 02/07/19
+* Hora: 12:58
 * @WTD: Write a Java program to display the following pattern.
 */
 
