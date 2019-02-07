@@ -1,7 +1,7 @@
 /*  @autor: Hector_Sanchez_169840
 *  @date: 02/07/19
-* @timeStart: 12:46
-* @WTD: Write a Java program that takes a number as input and prints its multiplication table upto 10.
+* @timeStart: 12:58
+* @WTD: Write a Java program to display the following pattern.
 */
 
 public class Exercise8{
