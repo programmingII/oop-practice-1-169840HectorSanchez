@@ -1,6 +1,6 @@
-/*@autor: Hector_Gerardo_Sanchez_Quiroga
-* @Timestart: 13:38 
-* @Date 05/02/19
+/*Nombre: Hector_Gerardo_Sanchez_Quiroga
+* Dia: 05/02/19
+* Hora:  13:38 
 * @WTD:  Write a Java program to print the result of the following operations. 
 */
 public class Exercise4{
