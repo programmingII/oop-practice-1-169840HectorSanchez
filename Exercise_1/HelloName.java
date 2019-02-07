@@ -1,6 +1,6 @@
-/*Hector_Gerardo_Sanchez_Quiroga
-* 12:26 
-* 05/02/19
+/*Nombre: Hector_Gerardo_Sanchez_Quiroga
+* Dia: 05/02/19
+* Hora: 12:26 
 */
 
 public class HelloName{
