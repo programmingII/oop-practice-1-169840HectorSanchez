@@ -1,6 +1,6 @@
-/*  @autor: Hector_Sanchez_169840
-*  @date: 02/07/19
-* @timeStart: 12:40
+/*  Nombre: Hector_Sanchez_169840
+*  Dia: 02/07/19
+* Hora: 12:40
 * WTD: Write a Java program to print the sum (addition), multiply, subtract, divide and remainder of two numbers.
 */
 
