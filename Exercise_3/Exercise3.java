@@ -1,6 +1,6 @@
-/*Hector_Gerardo_Sanchez_Quiroga
-* 13:24 
-* 05/02/19
+/*Nombre: Hector_Gerardo_Sanchez_Quiroga
+* Dia: 05/02/19
+* Hora: 13:24 
 * Write a Java program to divide two numbers and print on the screen.
 */
 import java.util.Scanner;
