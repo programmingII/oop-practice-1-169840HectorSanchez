@@ -1,4 +1,4 @@
-/* Nombre
+/* Nombre: Hector_Gerardo_Sanchez_Quiroga
 *  Dia: 02/09/2019
 *  Hora: 19:10
 *  Wtd: Write a Java program to print the area and perimeter of a circle.
