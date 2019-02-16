@@ -19,6 +19,9 @@ Ref: https://stackoverflow.com/questions/5997235/is-there-a-difference-between-m
 	Scanner Sr = new Scanner(System.in);
 System.out.println("Ingrese el primer numero binario: ");
 	x=Sr.nextLine();
+		/*Advances this scanner past the current line and returns the input that was skipped. 
+		This method returns the rest of the current line, excluding any line separator at the end. 
+		Ref: https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html*/
 System.out.println("Ingrese el segundo numero binario:");
 	y=Sr.nextLine();
 System.out.println("Resultado: "+(Integer.toBinaryString(Integer.parseInt(x,2)*Integer.parseInt(y,2))));
