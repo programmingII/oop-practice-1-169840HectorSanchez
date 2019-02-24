@@ -25,17 +25,27 @@ for(int i=0;i<s.length();i++){
 /*The java string length() method length of the string. It returns count of total number of characters. The length of java string is same as the unicode code units of the string.Ref: https://www.javatpoint.com/java-string-length*/
 if(Character.isLetter(caracter[i])){
 	let++;
+	/* 	isLetter(char ch)
+	Determines if the specified character is a letter.
+	Ref: https://docs.oracle.com/javase/7/docs/api/java/lang/Character.html*/
 }
 else
 if(Character.isDigit(caracter[i])){
 	num++;
+	/*isDigit(char ch)
+Determines if the specified character is a digit.
+Ref: https://docs.oracle.com/javase/7/docs/api/java/lang/Character.html*/
 }
 else	
 if(Character.isSpaceChar(caracter[i])){
 	space++;
+	/* isSpaceChar(char ch)
+	Determines if the specified character is a Unicode space character.
+	Ref: https://docs.oracle.com/javase/7/docs/api/java/lang/Character.html*/
 }	
 else
 	other++;
+	/*Aqui se guardara todo lo demas, que no sean letras, numeros o espacios*/
 
 }
 System.out.println("Letras: "+let);
