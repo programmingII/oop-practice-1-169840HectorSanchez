@@ -1,5 +1,5 @@
 /* Nombre: Hector_Gerardo_Sanchez_Quiroga
-*  Dia: 02/23/2019
+*  Dia: 02/24/2019
 *  Hora: 18:59
 *  Wtd: Write a Java program that accepts an integer (n) and computes the value of n+nn+nnn.
 */
