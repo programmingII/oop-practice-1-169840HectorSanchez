@@ -1,6 +1,6 @@
 /* Nombre: Hector_Gerardo_Sanchez_Quiroga
 *  Dia: 02/25/2019
-*  Hora: 8:51
+*  Hora: 10:34
 *  Wtd: Write a Java program to convert a string to an integer in Java.
 */
 import java.util.Scanner;
