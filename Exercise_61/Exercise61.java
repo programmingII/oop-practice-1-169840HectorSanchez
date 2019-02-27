@@ -11,7 +11,10 @@ public class Exercise61{
 		//guardara lo Requerido 
 	System.out.println("Ingresa la frase: ");//Muestra lo que le pide al user 
 	String frase = Sr.nextLine();//Recibe y guarda en frase la nextline.
-	System.out.println("Frase al revez: "+new StringBuilder(frase).reverse().toString());
+	System.out.println("Frase al revez: "+new StringBuilder(frase).reverse().toString()); //Va a tomar la "frase" y le hara reverse con Stringbuilder
+		/*Reverses the sequence of characters in this string builder.
+		StringBuilder objects are like String objects, 
+		except that they can be modified.*/
 	
 }
 }
